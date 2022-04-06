@@ -1,0 +1,71 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-eatable-dev-175211-authRole",
+      "UnauthRoleArn": "arn:aws:iam::078068539868:role/amplify-eatable-dev-175211-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::078068539868:role/amplify-eatable-dev-175211-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-eatable-dev-175211-deployment",
+      "UnauthRoleName": "amplify-eatable-dev-175211-unauthRole",
+      "StackName": "amplify-eatable-dev-175211",
+      "StackId": "arn:aws:cloudformation:eu-central-1:078068539868:stack/amplify-eatable-dev-175211/6ad8d2b0-8a89-11ec-88a5-0a1f1c1548de",
+      "AmplifyAppId": "d58h3otig2cjz"
+    },
+    "categories": {
+      "auth": {
+        "eatable176449db": {
+          "userPoolId": "eu-central-1_T941T1NfQ",
+          "userPoolName": "eatable-dev-user-pool",
+          "webClientId": "6be20ljlhji9r4reftivt7ktbs",
+          "nativeClientId": "6be20ljlhji9r4reftivt7ktbs"
+        }
+      }
+    }
+  },
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-eatable-staging-160508-authRole",
+      "UnauthRoleArn": "arn:aws:iam::078068539868:role/amplify-eatable-staging-160508-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::078068539868:role/amplify-eatable-staging-160508-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-eatable-staging-160508-deployment",
+      "UnauthRoleName": "amplify-eatable-staging-160508-unauthRole",
+      "StackName": "amplify-eatable-staging-160508",
+      "StackId": "arn:aws:cloudformation:eu-central-1:078068539868:stack/amplify-eatable-staging-160508/6c665790-a6c4-11ec-8d71-02b45a463d80",
+      "AmplifyAppId": "d58h3otig2cjz"
+    },
+    "categories": {
+      "auth": {
+        "eatable176449db": {
+          "userPoolId": "eu-central-1_gD26CyGvw",
+          "userPoolName": "eatable-stage-user-pool",
+          "webClientId": "2cekasc8tad6qrp2rvfbkoq5f5",
+          "nativeClientId": "2cekasc8tad6qrp2rvfbkoq5f5"
+        }
+      }
+    }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-eatable-prod-160953-authRole",
+      "UnauthRoleArn": "arn:aws:iam::078068539868:role/amplify-eatable-prod-160953-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::078068539868:role/amplify-eatable-prod-160953-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-eatable-prod-160953-deployment",
+      "UnauthRoleName": "amplify-eatable-prod-160953-unauthRole",
+      "StackName": "amplify-eatable-prod-160953",
+      "StackId": "arn:aws:cloudformation:eu-central-1:078068539868:stack/amplify-eatable-prod-160953/162f9cf0-a6c5-11ec-b296-06f7ffa964ac",
+      "AmplifyAppId": "d58h3otig2cjz"
+    },
+    "categories": {
+      "auth": {
+        "eatable176449db": {
+          "userPoolId": "eu-central-1_bArZfOY71",
+          "userPoolName": "eatable-prod-user-pool",
+          "webClientId": "325o0a91t6b57nfqp5o7jhgvbj",
+          "nativeClientId": "325o0a91t6b57nfqp5o7jhgvbj"
+        }
+      }
+    }
+  }
+}

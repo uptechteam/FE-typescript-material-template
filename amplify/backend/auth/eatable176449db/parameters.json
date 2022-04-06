@@ -1,0 +1,11 @@
+{
+  "authSelections": "userPoolOnly",
+  "resourceName": "eatable176449db",
+  "serviceType": "imported",
+  "region": "eu-central-1",
+  "requiredAttributes": [],
+  "passwordPolicyMinLength": 6,
+  "passwordPolicyCharacters": [],
+  "mfaConfiguration": "OFF",
+  "mfaTypes": []
+}
