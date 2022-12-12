@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Installing
+
+### Requirements:
+
+- [Node.js](https://nodejs.org/uk/) 16 or higher
+- [Yarn package manager](https://yarnpkg.com/)
+
 ## Deployment
 
 Eatable Fronted base branch is `develop`. Every commit pushed to `develop` branch automatically will be deployed to the dev environment.

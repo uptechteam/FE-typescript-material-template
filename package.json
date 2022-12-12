@@ -1,7 +1,11 @@
 {
-  "name": "eatable",
+  "name": "react-typescript-material-template",
   "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node": "^16.18.1",
+    "yarn": ">= 1.22.19"
+  },
   "dependencies": {
     "@aws-amplify/core": "^4.3.11",
     "@aws-amplify/ui-react": "^1.2.26",
